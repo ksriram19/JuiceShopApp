@@ -5,7 +5,9 @@ This is a cross-platform mobile application for a juice shop, built using React 
 
 Install Node.js and npm: If you haven't already, download and install Node.js . npm comes bundled with Node.js.
 Install Expo CLI globally: Expo CLI is a command-line tool for creating and managing Expo projects. Install it globally using npm:
+```
 npm install -g expo-cli
+```
 
 Create a New React Native Project: Use Expo CLI to create a new React Native project:
 expo init JuiceShopApp
