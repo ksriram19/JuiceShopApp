@@ -10,15 +10,25 @@ npm install -g expo-cli
 ```
 
 Create a New React Native Project: Use Expo CLI to create a new React Native project:
+```
 expo init JuiceShopApp
+```
 Choose the "Managed workflow" template when prompted.
 
 # 2. Navigate to Your Project Directory and Start the Application:
 Navigate to the Project Directory:
+```
 cd JuiceShopApp
+```
 
 Start the Application:
-expo start or npx expo
+```
+expo start 
+```
+or
+```
+npx expo
+```
 
 On your mobile download the latest Expo Go app to scan the QR Code to connect to the server
 
