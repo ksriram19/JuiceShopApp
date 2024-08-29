@@ -1,4 +1,10 @@
 # JuiceShopApp
+
+[![React Native](https://img.shields.io/badge/React%20Native-0.70+-blue)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-48.0.0-blue)](https://expo.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-16.x-brightgreen)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-8.x-red)](https://www.npmjs.com/)
+
 This is a cross-platform mobile application for a juice shop, built using React Native and Expo. The application includes a menu component to display juices with images, an order list component to display the current order, and functionalities for managing orders.
 
 ## 1. Initial Setup:
